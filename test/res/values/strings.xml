@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_request__code">REQUEST_CODE</string>
+    <string name="title_activity_request_alarm_receiver">RequestAlarmReceiver</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_number">NumberActivity</string>
+    <string name="title_activity_alarm_run">Alarm_run</string>
+    <string name="title_activity_alarm_voice">Alarm_voice</string>
+
+</resources>
